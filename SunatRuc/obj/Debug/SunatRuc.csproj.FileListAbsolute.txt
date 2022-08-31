@@ -1,0 +1,12 @@
+C:\Users\Joshet\source\repos\SunatRuc\SunatRuc\bin\Debug\SunatRuc.exe.config
+C:\Users\Joshet\source\repos\SunatRuc\SunatRuc\bin\Debug\SunatRuc.exe
+C:\Users\Joshet\source\repos\SunatRuc\SunatRuc\bin\Debug\SunatRuc.pdb
+C:\Users\Joshet\source\repos\SunatRuc\SunatRuc\obj\Debug\SunatRuc.csproj.AssemblyReference.cache
+C:\Users\Joshet\source\repos\SunatRuc\SunatRuc\obj\Debug\SunatRuc.Properties.Resources.resources
+C:\Users\Joshet\source\repos\SunatRuc\SunatRuc\obj\Debug\SunatRuc.csproj.GenerateResource.cache
+C:\Users\Joshet\source\repos\SunatRuc\SunatRuc\obj\Debug\SunatRuc.csproj.CoreCompileInputs.cache
+C:\Users\Joshet\source\repos\SunatRuc\SunatRuc\obj\Debug\SunatRuc.exe
+C:\Users\Joshet\source\repos\SunatRuc\SunatRuc\obj\Debug\SunatRuc.pdb
+C:\Users\Joshet\source\repos\SunatRuc\SunatRuc\obj\Debug\SunatRuc.Form1.resources
+C:\Users\Joshet\source\repos\SunatRuc\SunatRuc\obj\Debug\SunatRuc.Resultados.resources
+C:\Users\Joshet\source\repos\SunatRuc\SunatRuc\obj\Debug\SunatRuc.ListaRuc.resources
